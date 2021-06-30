@@ -35,7 +35,7 @@ Scope: **Hosted Offering, App Store, Software Development**
 Scope: **Hosted Offering**
 {% endhint %}
 
-Rocket.Chat has published a pre-filled questionnaire in the STAR-registry of the CSA [here](https://cloudsecurityalliance.org/star/registry/rocket-chat). The CSA is a leading organization in the standardization and improvement of security in cloud computing. The Consensus Assessments Initiative Questionnaire \(CAIQ\) is a self-assessment that is updated on an annual basis.
+Rocket.Chat has published a pre-filled questionnaire in the STAR-registry of the CSA [here](https://cloudsecurityalliance.org/star/registry/rocket-chat). The CSA is a leading organization in the standarization and improvement of security in cloud computing. The Consensus Assessments Initiative Questionnaire \(CAIQ\) is a self-assessment that is updated on an annual basis.
 
 * Name: Consensus Assessments Initiative Questionnaire
 * Last Update: October 2019
